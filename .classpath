@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/apache-commons"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/gson-2.8.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jackson-parser-api"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jaxs-ri-2.26"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/joda-time-2.9.9"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/json-simple-1.1.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jxfrt"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mariadb-java-client-2.2.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-java-5.1.34"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/poi-3.17"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/rowset"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/xmlbeans-2.6.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-email-1.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javax.mail-1.5.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-5.1.34"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
